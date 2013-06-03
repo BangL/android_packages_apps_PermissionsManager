@@ -37,10 +37,10 @@ import android.widget.AdapterView;
 import android.widget.CompoundButton;
 import android.widget.ExpandableListView;
 import android.widget.Switch;
-import org.chameleonos.permissionsmanager.R;
-import org.chameleonos.permissionsmanager.data.AppPermsInfo;
-import org.chameleonos.permissionsmanager.widget.AppPermissionExpandableListAdapter;
-import org.chameleonos.permissionsmanager.widget.PermissionView;
+import org.cyanogenmod.permissionsmanager.R;
+import org.cyanogenmod.permissionsmanager.data.AppPermsInfo;
+import org.cyanogenmod.permissionsmanager.widget.AppPermissionExpandableListAdapter;
+import org.cyanogenmod.permissionsmanager.widget.PermissionView;
 
 import java.util.ArrayList;
 import java.util.Collections;

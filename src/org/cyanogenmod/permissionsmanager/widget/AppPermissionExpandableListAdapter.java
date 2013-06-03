@@ -27,8 +27,8 @@ import android.view.ViewGroup;
 import android.view.WindowManager;
 import android.widget.BaseExpandableListAdapter;
 import android.widget.TextView;
-import org.chameleonos.permissionsmanager.R;
-import org.chameleonos.permissionsmanager.data.AppPermsInfo;
+import org.cyanogenmod.permissionsmanager.R;
+import org.cyanogenmod.permissionsmanager.data.AppPermsInfo;
 
 import java.util.List;
 
