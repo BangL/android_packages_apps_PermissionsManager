@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.chameleonos.permissionsmanager.data;
+package org.cyanogenmod.permissionsmanager.data;
 
 import java.util.ArrayList;
 import java.util.Arrays;

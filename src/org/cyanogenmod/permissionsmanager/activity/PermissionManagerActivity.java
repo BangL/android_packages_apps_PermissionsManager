@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.chameleonos.permissionsmanager.activity;
+package org.cyanogenmod.permissionsmanager.activity;
 
 import android.app.AlertDialog;
 import android.app.ExpandableListActivity;

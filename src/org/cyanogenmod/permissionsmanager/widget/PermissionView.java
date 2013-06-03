@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.chameleonos.permissionsmanager.widget;
+package org.cyanogenmod.permissionsmanager.widget;
 
 import android.content.Context;
 import android.graphics.Paint;
