@@ -18,7 +18,7 @@
     android:layout_height="wrap_content"
     android:layout_weight="1" >
 
-    <org.chameleonos.permissionsmanager.widget.PermissionView
+    <org.cyanogenmod.permissionsmanager.widget.PermissionView
         android:id="@+id/perm"
         android:layout_width="0dip"
         android:layout_height="wrap_content"
